@@ -46,7 +46,7 @@ int main()
         b[i] = sum;
     }
 
-    int max,min,temp;
+    int max,min;
 
     max = b[0];
 
