@@ -12,7 +12,8 @@ int main()
     cin>> n;
 
     int arr[m][n];
-
+    
+    cout<< endl;
     cout<< "Input elements: ";
 
     for(int i=0; i<m; i++)
