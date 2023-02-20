@@ -6,20 +6,6 @@ int main()
     int n=10;
     int a[n] = { 23,32,54,76,88,99,67,46,898,764};
 
-
-   //int n;
-   // cout<< "Range: ";
-   // cin>> n;
-
-    //int a[n];
-
-   // cout<< "input number: ";
-   // for(int i=0; i<n; i++)
-   // {
-    //    cin>> a[n];
-   // }
-
-
     for(int i=0; i<n-1; i++)
     {
         for(int j=0; j<n-1; j++)
